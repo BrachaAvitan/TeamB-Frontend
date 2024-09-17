@@ -1,2 +1,0 @@
-# TeamB-Frontend
-Team B 
